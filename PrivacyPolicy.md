@@ -8,7 +8,7 @@ This Privacy Policy explains how this Discord bot ("CultureCrave") collects, use
 
 By adding or using the Bot, server owners, administrators, moderators, and members acknowledge the practices described in this Privacy Policy.
 
-Information We Monitor
+# Information We Monitor
 
 The Bot monitors messages and certain server events for the sole purpose of maintaining the safety and security of the Discord server.
 
@@ -21,7 +21,7 @@ Message timestamps.
 Events related to spam, raids, malicious bots, or other rule violations.
 Purpose of Monitoring
 
-Message monitoring is performed exclusively to:
+# Message monitoring is performed exclusively to:
 
 Detect spam or excessive message flooding.
 Detect raid activity.
@@ -32,7 +32,7 @@ Automatically warn, mute, kick, or ban users when configured by the server admin
 
 The Bot does not monitor messages for advertising, profiling, or unrelated data collection.
 
-Automated Moderation
+# Automated Moderation
 
 The Bot may automatically take moderation actions when it detects activity that violates the configured server rules, including but not limited to:
 
@@ -50,7 +50,7 @@ Muting users.
 Kicking users.
 Banning users.
 
-Data Storage
+# Data Storage
 The Bot may temporarily or permanently store information required for moderation features within the discord server, such as:
 
 User IDs.
@@ -62,7 +62,7 @@ Configuration settings.
 
 Message content may be processed in real time for moderation purposes and may only be stored when necessary for moderation logs or evidence of rule violations. No data is store locally.
 
-Data Sharing
+# Data Sharing
 
 Information collected by the Bot is not sold or shared with third parties except:
 
@@ -73,11 +73,11 @@ Data Security
 
 Reasonable measures are taken to protect stored information from unauthorized access, alteration, or disclosure. However, no method of electronic storage or transmission is completely secure.
 
-User Rights
+# User Rights
 
 If you believe information about you has been stored unnecessarily, you may contact the server administrators or the Bot developer to request review or removal where applicable and legally permitted.
 
-Server Administrator Responsibilities
+# Server Administrator Responsibilities
 
 Server owners and administrators are responsible for:
 
@@ -88,6 +88,6 @@ Changes to This Privacy Policy
 
 This Privacy Policy may be updated from time to time. Continued use of the Bot after changes are published constitutes acceptance of the updated Privacy Policy.
 
-Contact
+# Contact
 
-If you have questions regarding this Privacy Policy or the Bot's handling of data, please contact the Bot developer through the support server or other official support channels.
+If you have questions regarding this Privacy Policy or the Bot's handling of data, please contact the Bot developer (@BOSSSDTP on discord) through the support server or other official support channels.
