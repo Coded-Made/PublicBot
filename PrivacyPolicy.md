@@ -2,7 +2,7 @@
 
 Last Updated: June 26, 2026
 
-Introduction
+# Introduction
 
 This Privacy Policy explains how this Discord bot ("CultureCrave") collects, uses, and processes information while operating in Discord servers where it has been invited.
 
